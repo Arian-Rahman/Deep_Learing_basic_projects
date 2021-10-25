@@ -1,2 +1,2 @@
-# Deep_Learing_basic_projects
+Basic Deep Learing Projects
 A collection of beginner projects I did while learing DL. 
